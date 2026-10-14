@@ -48,6 +48,8 @@ The dashboard includes:
 2. Successful vs Failed Logins — Pie Chart
 3. Failed Login Attempts Over Time — Line Chart
 
+![Cybersecurity Threat Monitoring Dashboard](Cybersecurity-%20Threat-%20Monitoring.png)
+
 ## Skills Demonstrated
 - Security event monitoring
 - SIEM log ingestion and analysis
