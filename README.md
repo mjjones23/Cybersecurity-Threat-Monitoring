@@ -61,3 +61,12 @@ The dashboard includes:
 ## Conclusion
 This hands-on project strengthened my understanding of how security analysts use Splunk to investigate authentication events, identify potentially suspicious activity, and communicate findings through dashboards.
 
+## How to Reproduce This Project
+
+1. Download `windows_security_lab.csv` from this repository.
+2. Open Splunk Enterprise.
+3. Navigate to Settings > Add Data > Upload.
+4. Upload the CSV file.
+5. Select the `cybersecurity_lab` index and verify the timestamps and CSV fields are parsed correctly.
+6. Run the SPL queries documented above.
+7. Recreate the bar chart, pie chart, and line chart.
